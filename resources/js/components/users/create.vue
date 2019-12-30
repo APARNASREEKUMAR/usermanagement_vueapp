@@ -82,7 +82,7 @@
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 </template>    
-
+z
 <script>
     export default {
         data() {

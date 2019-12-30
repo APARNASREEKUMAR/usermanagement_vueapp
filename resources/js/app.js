@@ -22,6 +22,8 @@ Vue.component('GoogleMaps', GoogleMaps);
 Vue.component('ListView', ListView);
 Vue.component('Sidebar', Sidebar);
 
+import Paginate from 'vuejs-paginate'
+Vue.component('paginate', Paginate)
 const routes=[
     { path:'/users/create',component:UserCreate },
     { path:'/users',component:UserList },

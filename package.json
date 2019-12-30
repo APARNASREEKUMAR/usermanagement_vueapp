@@ -26,6 +26,7 @@
     "dependencies": {
         "vee-validate": "^2.2.10",
         "vue-router": "^3.0.6",
+        "vuejs-paginate": "^2.1.0",
         "vuelidator": "^0.1.0"
     }
 }
